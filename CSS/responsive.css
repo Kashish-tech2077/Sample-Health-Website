@@ -27,9 +27,9 @@
   .hero-section .hero-left-section {
     width: 50%;
   }
-  /* .header::before {
+  .header::before {
     height: 55rem;
-  } */
+  }
   .header .navbar {
     padding: 0 0 0 15rem;
   }
@@ -120,6 +120,9 @@
   .common-section {
     padding: 8rem 3rem;
   }
+  .header::before {
+    height: 65rem;
+  }
   .app-section-img {
     width: 32rem;
   }
@@ -133,7 +136,7 @@
     width: 40rem;
   }
   #goal-section-right {
-    width: 70%;
+    width: 85%;
   }
   #goal-section-right h2 {
     padding-bottom: 4rem;
