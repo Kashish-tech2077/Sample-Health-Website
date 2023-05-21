@@ -344,9 +344,6 @@ li {
 .footer-left {
   width: 20%;
 }
-.footer-left img {
-  height: 10rem;
-}
 .footer-right {
   width: 80%;
 }
@@ -354,6 +351,10 @@ li {
   /* width: 20%; */
   display: flex;
   justify-content: center;
+}
+.footer-left img{
+  width: 10rem;
+  height: 10rem;
 }
 .footer-right-content {
   display: flex;
